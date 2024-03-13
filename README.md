@@ -17,8 +17,7 @@ An Aspire Sample with a Python tool using gRPC
 4. Run the project
    - `dotnet run`
 
-<br><br><br><br><br><br>
---- 
+<br><br><br><br><br><br> 
 
 ## Funding
 [<img src="https://github.com/luuk777w/horizon-perceive-backend/assets/22987811/e6667af5-71e3-4845-931f-273cdd6f525b" height="80" align="left" alt="European emblem">](http://ec.europa.eu/)
