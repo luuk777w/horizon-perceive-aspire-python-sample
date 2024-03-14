@@ -1,6 +1,24 @@
 # horizon-perceive-aspire-python-sample
 An Aspire Sample with a Python tool using gRPC
 
+## How to run?
+
+1. Install .NET Aspire Workload
+   - `dotnet workload install aspire`
+
+2. Build Docker image
+   - Go in to the tools folder
+   - Build the docker image: `docker image build . -t canny-edge-tool`
+
+3. Build the project
+   - `dotnet restore`
+   - `dotnet build`
+
+4. Run the project
+   - `dotnet run`
+
+<br><br><br><br><br><br> 
+
 ## Funding
 [<img src="https://github.com/luuk777w/horizon-perceive-backend/assets/22987811/e6667af5-71e3-4845-931f-273cdd6f525b" height="80" align="left" alt="European emblem">](http://ec.europa.eu/)
 
